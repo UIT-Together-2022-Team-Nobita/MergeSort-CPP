@@ -35,7 +35,7 @@ int main()
 			cout << "\nCan't open the file" << filename << endl;
 	}
 	cout << endl;
-	return 1206;
+	return 1;
 }
 
 bool Input(int mat[][1000], int& m, int& n, string filename)
